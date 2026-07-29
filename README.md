@@ -107,9 +107,9 @@ Config-driven Python backtesting engine with data-feed, execution, portfolio, an
 
 ## 📊 GitHub Analytics
 
-![Rudra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudy-123&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Rudra's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rudy-123&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudy-123&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rudy-123&layout=compact&langs_count=8&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudy-123&theme=tokyonight)
 
