@@ -27,7 +27,7 @@ const rudraPatel = {
         "Qualified Stage 2, International Quant Championship 2026 (top 20% globally) 📈",
         "Cybersecurity Head @ ENCODE — mentored 50+ students, ran CTFs 🔐"
     ],
-    funFact: "I turn race conditions into sleep-deprivation and distributed systems into weekend projects 🛠️"
+    funFact: "I've automated everything in my life except waking up on time"
 };
 ```
 
