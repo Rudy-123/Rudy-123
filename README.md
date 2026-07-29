@@ -1,171 +1,205 @@
-# 👋 Hey there, I'm Rudy!
+<div align="center">
 
-Welcome to my corner of GitHub 🌐 — where bugs get hunted, caches get distributed, and `git commit -m "final fix"` is never actually final.
+Hey there, I'm Rudra Patel! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rudy-123&style=flat-square&color=brightgreen)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=900&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Backend+Developer;Distributed+Systems+Enthusiast;Competitive+Programmer;C%2B%2B+%7C+Node.js+%7C+Python"
+    alt="Backend Developer, Distributed Systems Enthusiast, Competitive Programmer"
+  />
+</a>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Security+%2B+Systems+Enthusiast;JavaScript+%7C+Python+%7C+C%2B%2B;Build.+Break.+Secure.+Repeat." alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 **Developer & Builder** — shipping projects across web, systems, and security  
-🛡️ **Bug Bounty Enthusiast** — I like finding what others miss  
-⚙️ **Systems-Curious** — distributed caches, backtesting engines, and everything in between  
-🤖 **AI Explorer** — building tools that make code review smarter  
-🏆 **Achievements** — Pull Shark x2, YOLO 😄  
-
-> I don't just ship features — I dig into how systems actually work under the hood. 🔍
-
----
-
-## 🛠️ Tech Stack
-
-### ❤️ What I Love Working With
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 🌱 Currently Exploring
-
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-4285F4?style=flat-square&logo=apache&logoColor=white)
-![AI Tools](https://img.shields.io/badge/-AI_Tools-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 🔥 What I've Built
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 AI Powered Code Reviewer</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/AIPoweredCodeReviewer">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        An <strong>AI-driven tool</strong> that reviews code and surfaces suggestions automatically. Built with JavaScript.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 Chatify — Realtime Chat App</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/Chatify-RealtimeChatApp">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        A <strong>real-time chat application</strong> for instant messaging between users. Built with JavaScript.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 BackTesting Engine</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/BackTesting_Engine">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        A <strong>trading strategy backtesting engine</strong> for simulating and evaluating performance on historical data. Built with Python.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🗄️ Distributed Cache System</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/Distributed-Cache-System">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        A <strong>distributed caching system</strong> exploring consistency, replication, and performance at scale. Built with C++.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Hostel Management</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/Hostel_Management">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        A <strong>hostel management system</strong> for handling student records, rooms, and admin operations. Built with PHP.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐛 Bug Bounty Blitz</h3>
-      <p align="center">
-        <a href="https://github.com/Rudy-123/bugbountyblitz.acmpdeu.encodepdeu.space">
-          <img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        A platform built for a <strong>bug bounty event</strong>, hunting down vulnerabilities and rewarding sharp eyes. Built with TypeScript.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudy-123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=Rudy-123&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy-123&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
-</p>
-
-> 📈 Every commit counts — building momentum, one push at a time! 💪
-
----
-
-## 🎯 When I'm Not Coding...
-
-- 🐛 Chasing down that one bug that "shouldn't even be possible"
-- 🔐 Poking at systems to see how they break
-- 🎮 Gaming sessions that were supposed to be "just 10 minutes"
-- ☕ Converting caffeine into commits at an alarming rate
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
+<p>
   <a href="https://github.com/Rudy-123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=Rudy-123&amp;style=for-the-badge&amp;color=2F81F7" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Rudy-123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rudy-123?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=181717" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/rudra-patel-625b76286/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rudrapatel47108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+👨‍💻 About Me
+
+struct Rudra {
+    std::string education = "B.Tech Computer Engineering @ PDEU | 2027";
+    std::string experience = "SDE Intern @ Spreadd Adtech";
+
+    std::vector<std::string> focus = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "Concurrency",
+        "Performance"
+    };
+
+    std::string competitive_programming =
+        "Codeforces Specialist | 900+ problems solved";
+
+    std::string current_goal =
+        "Build reliable systems and sharpen DSA, LLD, SQL";
+};
+
+I enjoy turning system-design ideas into working software—especially caches,distributed services, microservices, and performance-oriented tools.
+
+⚔️ Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/RUDYY_47/">
+  <img
+    width="48%"
+    src="https://leetcard.jacoblin.cool/RUDYY_47?theme=dark&amp;font=Fira%20Code"
+    alt="Rudra's LeetCode statistics"
+  />
+</a>
+<a href="https://codeforces.com/profile/RUDYY_1">
+  <img
+    width="48%"
+    src="https://codeforces-readme-stats.vercel.app/api/card?username=RUDYY_1&amp;theme=dark"
+    alt="Rudra's Codeforces statistics"
+  />
+</a>
+
+<br />
+
+<a href="https://codeforces.com/profile/RUDYY_1">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201422-03A89E?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces Specialist, peak rating 1422" />
+</a>
+<a href="https://leetcode.com/u/RUDYY_47/">
+  <img src="https://img.shields.io/badge/LeetCode-Peak%201805-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode peak rating 1805" />
+</a>
+<img src="https://img.shields.io/badge/Problems_Solved-900%2B-7C3AED?style=for-the-badge" alt="More than 900 problems solved" />
+<img src="https://img.shields.io/badge/CodeChef-Peak%201507-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef peak rating 1507" />
+
+</div>
+
+Qualified for Stage 2 of the International Quant Championship 2026, placingin the top 20% globally.
+
+I regularly practice data structures, algorithms, and contest problem-solvingacross Codeforces and LeetCode.
+
+🛠️ Tech Stack
+
+Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js&amp;theme=dark" alt="C++, C, Python, Java, JavaScript" />
+  </a>
+</p>
+
+Backend, Data & Web
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,mongodb,redis,kafka&amp;theme=dark" alt="Node.js, Express, React, PostgreSQL, MongoDB, Redis, Kafka" />
+  </a>
+</p>
+
+Tools & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman&amp;theme=dark" alt="Docker, AWS, Git, GitHub, Linux, Postman" />
   </a>
 </p>
 
 <p align="center">
-  🤝 Always open to collaborating on interesting projects, hackathons, or just nerding out about tech!
+  REST APIs • Microservices • SQL • Caching • Replication • System Design
 </p>
 
----
+🚀 Featured Repositories
 
-<p align="center">
-  <sub>Thanks for scrolling all the way down! You're awesome. ⭐ Star a repo if you like what you see!</sub>
-</p>
+<div align="center">
+
+<a href="https://github.com/Rudy-123/Distributed-Cache-System">
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Rudy-123&amp;repo=Distributed-Cache-System&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Distributed Cache System repository"
+  />
+</a>
+<a href="https://github.com/Rudy-123/IRCTC">
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Rudy-123&amp;repo=IRCTC&amp;theme=tokyonight&amp;hide_border=true"
+    alt="BookMyTrain repository"
+  />
+</a>
+<a href="https://github.com/Rudy-123/BackTesting_Engine">
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Rudy-123&amp;repo=BackTesting_Engine&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Backtesting Engine repository"
+  />
+</a>
+
+</div>
+
+<details>
+<summary><strong>What these projects explore</strong></summary>
+
+Distributed Cache System: sharding, replication, TTL scheduling, eviction,failure detection, replica promotion, and online shard expansion.
+
+BookMyTrain: an eight-service railway reservation platform using Kafka,Redis, PostgreSQL, Elasticsearch, Saga orchestration, and seat-bookingconcurrency controls.
+
+Backtesting Engine: parallel strategy evaluation in Python with aDockerized AWS EventBridge–Lambda–S3 data-ingestion pipeline.
+
+</details>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img
+width="48%"
+src="https://github-stats-extended.vercel.app/api?username=Rudy-123&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true"
+alt="Rudra's GitHub statistics"
+/><img
+width="48%"
+src="https://streak-stats.demolab.com/?user=Rudy-123&amp;theme=tokyonight&amp;hide_border=true"
+alt="Rudra's GitHub contribution streak"
+/>
+
+<br />
+
+<img
+width="48%"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=Rudy-123&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"
+alt="Most-used languages across Rudra's public GitHub repositories"
+/>
+
+</div>
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rudra-patel-625b76286/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rudra_Patel-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:rudrapatel47108@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rudrapatel47108-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
+</a>
+<a href="https://codeforces.com/profile/RUDYY_1">
+  <img src="https://img.shields.io/badge/Codeforces-RUDYY__1-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces profile" />
+</a>
+<a href="https://leetcode.com/u/RUDYY_47/">
+  <img src="https://img.shields.io/badge/LeetCode-RUDYY__47-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode profile" />
+</a>
+
+<br /><br />
+
+<strong>Open to backend and distributed-systems internships, collaborations,and 2027 graduate SDE roles.</strong>
+
+<br /><br />
+
+<sub>Build for the happy path. Engineer for everything that can fail.</sub>
+
+</div>
