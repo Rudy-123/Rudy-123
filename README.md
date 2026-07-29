@@ -18,7 +18,6 @@
 const rudraPatel = {
     location: "Gandhinagar, Gujarat, India",
     education: "B.Tech Computer Engineering @ Pandit Deendayal Energy University (2023-2027)",
-    cgpa: "9.17 / 10",
     currentRole: "SDE Intern @ Spreadd Adtech Pvt. Ltd (May - Jul 2026)",
     currentFocus: ["Distributed Systems", "Backend Engineering", "System Design", "Quant Finance"],
     achievements: [
